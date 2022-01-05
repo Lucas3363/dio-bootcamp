@@ -1,0 +1,11 @@
+## Projeto website em HTML e CSS
+
+O objetivo do projeto é construir um site com todas as tags aprendida durante o semestre do curso.
+
+Inicialmente foi desenvolvido uma pagina com apenas textos e imagens, logo em seguida acrescentado links para navegar entre as paginas. Mais adiante, foi utilizado novas tags para adicionar novas funções, partindo assim para a parte final que era construir um formulário de cadastro.
+
+Para estilização, foi criado a pasta 'main' com o arquivo 'css'.
+
+Na folha de estilos foi usado varios atributos passados em aula e outros por pesquisa própria.
+
+No projeto foi usado minhas informações pessoais.

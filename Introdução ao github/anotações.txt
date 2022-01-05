@@ -1,0 +1,7 @@
+Comandos do console
+
+git clone "link do repositorio"
+
+cd "nome da pasta"
+
+git status

@@ -1,0 +1,15 @@
+Comandos do console
+
+git clone "link do repositorio"  -- ADICIONAR REPOSITORIO
+
+cd "nome da pasta"   --- TRABALHAR NA PASTA SELECIONADA
+
+git status  --  CHECAR STATUS
+
+git add . OU git add -a    --- ADICIONAR ARQUIVOS PARA ATUALIZAR E COMMITAR
+
+git commit -m   --- COMITAR ATUALIZAÇÕES COM MENSAGEM ENTRE ASPAS
+
+git push origin main   ---  PUBLICAR ATUALIZAÇÕES NO SITE DO GITHUB
+
+

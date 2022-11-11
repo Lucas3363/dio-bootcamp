@@ -2,7 +2,7 @@ Comandos do console
 
 git clone "link do repositorio"  -- ADICIONAR REPOSITORIO
 
-cd "nome da pasta"   --- TRABALHAR NA PASTA SELECIONADA
+cd "nome da pasta"   --- CD "NOME DO REPOSITORIO NO GITHUB" - TRABALHAR NA PASTA SELECIONADA
 
 git status  --  CHECAR STATUS
 
